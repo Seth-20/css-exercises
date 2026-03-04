@@ -1,1 +1,28 @@
 /* Add CSS Styling */
+.Num-one {
+    background-color: pink;
+    color: black;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#Num-two {
+    color: blue;
+    font-size: 36px;
+}
+
+.Num-three {
+    background-color: pink;
+    font-size: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#Num-four {
+    background-color: mediumspringgreen;
+    font-weight: bold;
+    font-size: 24px;
+}
+
+.Num-five {
+    background-color: pink;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
