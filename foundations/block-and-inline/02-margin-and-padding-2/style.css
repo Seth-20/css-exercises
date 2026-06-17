@@ -7,12 +7,12 @@ body {
 .card {
   width: 400px;
   background: #fff;
-  margin: 16px auto;
+  margin: 110px auto;
   
 }
 
 .title {
-  background: #e3f4ff;
+  background: #dfc011;
   font-size: 16px;
   padding: 8px;
   margin-bottom: 8px;
@@ -20,20 +20,20 @@ body {
 
 .content {
   background: #e3f4ff;
-  padding: 16px 8px;
+  padding: 29px 8px;
   margin-bottom: 8px;
 }
 
 .button-container {
   background: #e3f4ff;
-  padding: 8px;
+  padding: 18px;
   text-align: center;
   border-bottom: 8px #eee;
 }
 
 button {
   background: white;
-  border: 2px solid #eee;
+  border: 2px solid #f72e2e;
   padding: 8px 24px;
   display: block;
   margin-left: 120px;
